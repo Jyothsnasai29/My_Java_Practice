@@ -2,11 +2,11 @@ package polymorphism;
 
 public class Dog{
     public void sound(){
-        System.out.println("zshjdgfhjsegfjhSGDfjahsdfer");
+        System.out.println("hi arun");
     }
 
     public void sound(int a){
-        System.out.println("Tkjdfhkjsdkjsfd");
+        System.out.println("hi pinky");
     }
 
     public void sound(String a, String b){
