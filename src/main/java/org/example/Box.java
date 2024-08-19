@@ -13,8 +13,8 @@ public class Box {
         width = w;
         height = h;
     }
-    public boolean isEqual(Box boothu){
-        if(this.width == boothu.width && this.height == boothu.height)
+    public boolean isEqual(Box tree){
+        if(this.width == tree.width && this.height == tree.height)
             return true;
         else
             return false;
